@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarkar122
-- 👀 I’m interested in C , C++
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in C , C++ , Python
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on Devfolio
 - 📫 How to reach me Studing in Jaypee University Of Engeneering and Technology
 
